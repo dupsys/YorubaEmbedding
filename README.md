@@ -1,0 +1,2 @@
+# YorubaEmbedding
+Yoruba Curated Embedding
